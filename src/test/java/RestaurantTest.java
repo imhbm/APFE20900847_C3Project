@@ -75,7 +75,7 @@ class RestaurantTest {
         restaurant.addToMenu("Vegetable lasagne", 269);
 
         assertThrows(itemNotFoundException.class,
-                ()->restaurant.removeFromMenu("French fries"));
+          ()->restaurant.removeFromMenu("French fries"));
     }
     //<<<<<<<<<<<<<<<<<<<<<<<MENU>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 }

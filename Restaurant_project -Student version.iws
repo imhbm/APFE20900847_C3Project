@@ -1,13 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e986dcf1-8e08-4af8-8bbe-4465afb5e46d" name="Default Changelist" comment="" />
+    <list default="true" id="e986dcf1-8e08-4af8-8bbe-4465afb5e46d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Restaurant_project -Student version.ipr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Restaurant_project -Student version.iws" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Restaurant_project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Restaurant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/RestaurantService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/itemNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/restaurantNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RestaurantServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/RestaurantTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1xafA0fHVatBqw9u1NHBXxaLSSQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -32,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1630597972787</updated>
-      <workItem from="1630597976108" duration="5893000" />
+      <workItem from="1630597976108" duration="6024000" />
     </task>
     <servers />
   </component>

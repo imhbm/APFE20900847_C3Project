@@ -44,8 +44,8 @@ class RestaurantServiceTest {
     @Test
     public void searching_for_non_existing_restaurant_should_throw_exception() throws restaurantNotFoundException {
         //WRITE UNIT TEST CASE HERE
-       // Restaurant restaurant = new RestaurantService().findRestaurantByName("non_existing_restaurant");
-       // assertNotNull(restaurant,"Restaurant does not exist ");
+       Restaurant restaurant = new RestaurantService().findRestaurantByName("non_existing_restaurant");
+       assertNotNull(restaurant,"Restaurant does not exist ");
 
     }
     //<<<<<<<<<<<<<<<<<<<<SEARCHING>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -71,7 +71,7 @@ class RestaurantServiceTest {
         restaurant.addToMenu("Sweet corn soup",119);
         restaurant.addToMenu("Vegetable lasagne", 269);
 
-       // assertThrows(restaurantNotFoundException.class,()->service.removeRestaurant("Pantry d'or"));
+       assertThrows(restaurantNotFoundException.class,()->service.removeRestaurant("Pantry d'or"));
     }
 
     @Test
